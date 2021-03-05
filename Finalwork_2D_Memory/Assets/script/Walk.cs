@@ -48,8 +48,16 @@ public class Walk : MonoBehaviour
 
         if (facedircetion != 0)
         {
-            transform.localScale = new Vector3(-facedircetion, 1, 1);
+            transform.localScale = new Vector3((float)-1.685113, (float)1.753553, 1 );
+
+            if (facedircetion != 1)
+            {
+                transform.localScale = new Vector3((float)1.685113, (float)1.753553, 1);
+            }
+
         }
+
+        
 
     }
 }

@@ -22,7 +22,7 @@ public class Downstair2f : MonoBehaviour
     {
         if (Button.activeSelf && Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene("game");
+            SceneManager.LoadScene("game_F2down");
         }
         else if (Input.GetKeyDown(KeyCode.Space))
         {
