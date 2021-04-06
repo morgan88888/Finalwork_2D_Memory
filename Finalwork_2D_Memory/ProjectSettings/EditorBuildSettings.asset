@@ -9,11 +9,44 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Chapter1/talktoSIS.unity
+    guid: 28fe372c9f0cc624ea49eb7958856c80
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/fatherend.unity
+    guid: fd9076f23e743c941af7c58a2e207fc0
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/notalkGP.unity
+    guid: 01543eae8598e5748804421119d2edb8
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/fathertalk.unity
+    guid: 9a2563c5a1b13ec428fdc383c4e810dc
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/afterdinner02.unity
+    guid: 94617314cf623b442b97f946f7a3efd0
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/talkwithGP.unity
+    guid: efcff3b4660628d4eb484b3c6ec67acb
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/beforetalkwithGP.unity
+    guid: 7bd74c14574f5644aa59b74c6599a17a
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/afterdinner.unity
+    guid: c84c7eee2b52770489502cba6d9bf48a
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/dinnertime.unity
+    guid: 983377dff5f479f40ae266fd555af4b8
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/cross01.unity
+    guid: 98e544428809e5145a748520c7224e8c
+  - enabled: 1
     path: Assets/Scenes/start.unity
     guid: 43eeb23558e1ef5439fad9a525105f57
   - enabled: 1
     path: Assets/Scenes/option.unity
     guid: 04eb1b965476fb04da59072f72c85518
+  - enabled: 1
+    path: Assets/Scenes/op.unity
+    guid: 21ef9f84431993b4cad551c143d1c234
   - enabled: 1
     path: Assets/Scenes/game.unity
     guid: 708c1c7a8d354e247a56124b3fb8f1a6

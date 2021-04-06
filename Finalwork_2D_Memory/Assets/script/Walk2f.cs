@@ -18,7 +18,7 @@ void Update()
 {
     Movement();
 
-    movement = new Vector3(Input.GetAxisRaw("Horizontal") * Time.deltaTime * speed, Input.GetAxisRaw("Vertical") * Time.deltaTime * speed, 0);
+    movement = new Vector3(Input.GetAxisRaw("Horizontal") * Time.deltaTime * speed, 0, 0);
 
     transform.Translate(movement);
 

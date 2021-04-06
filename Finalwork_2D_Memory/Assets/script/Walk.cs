@@ -18,7 +18,7 @@ public class Walk : MonoBehaviour
     {
         Movement();
 
-        movement = new Vector3(Input.GetAxisRaw("Horizontal") * Time.deltaTime * speed, Input.GetAxisRaw("Vertical") * Time.deltaTime * speed, 0);
+        movement = new Vector3(Input.GetAxisRaw("Horizontal") * Time.deltaTime * speed, 0 , 0);
 
         transform.Translate(movement);
 
@@ -48,11 +48,11 @@ public class Walk : MonoBehaviour
 
         if (facedircetion != 0)
         {
-            transform.localScale = new Vector3((float)-1.685113, (float)1.753553, 1 );
+            transform.localScale = new Vector3((float)-1.462897, (float)1.522312, 1 );
 
             if (facedircetion != 1)
             {
-                transform.localScale = new Vector3((float)1.685113, (float)1.753553, 1);
+                transform.localScale = new Vector3((float)1.462897, (float)1.522312, 1);
             }
 
         }
