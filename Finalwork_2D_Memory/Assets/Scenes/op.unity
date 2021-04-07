@@ -1394,7 +1394,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 70
-    width: 101
+    width: 102
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1475,7 +1475,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 57
     y: 135
-    width: 111
+    width: 112.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1591,7 +1591,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1019327475
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1611,7 +1611,7 @@ MonoBehaviour:
   fadeTweenType: 4
 --- !u!114 &1019327476
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2135,8 +2135,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000014305115, y: 0}
-  m_SizeDelta: {x: 572, y: 322}
+  m_AnchoredPosition: {x: -2.4, y: 0}
+  m_SizeDelta: {x: 663.8, y: 322}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1806385093
 MonoBehaviour:

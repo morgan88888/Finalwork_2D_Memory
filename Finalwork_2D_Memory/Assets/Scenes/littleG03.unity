@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 76465058}
   - component: {fileID: 76465057}
   - component: {fileID: 76465056}
+  - component: {fileID: 76465078}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -458,7 +459,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 372.2941
     y: 159
-    width: 73.91753
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -485,7 +486,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 282.2276
     y: 160.5294
-    width: 75.567
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -512,7 +513,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 178.05112
     y: 161.88234
-    width: 75.567
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -539,7 +540,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 84.698166
     y: 160.88234
-    width: 73.91753
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -566,7 +567,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -20.529408
     y: 160.0588
-    width: 73.09278
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -608,7 +609,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 149
     y: 87
-    width: 91.23711
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -633,19 +634,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 187.91283, y: -30.603487}
-  variablesScrollPos: {x: 0, y: 0}
+  scrollPos: {x: 296.7007, y: 62.17405}
+  variablesScrollPos: {x: 0, y: 69}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.97000015
+  zoom: 0.43000057
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 76465051}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 76465041}
@@ -658,6 +658,7 @@ MonoBehaviour:
   - {fileID: 76465034}
   - {fileID: 76465033}
   - {fileID: 76465032}
+  - {fileID: 76465078}
   description: 
   stepPause: 0
   colorCommands: 1
@@ -925,7 +926,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 413.27545
     y: 225.03694
-    width: 106.90721
+    width: 71.39526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -952,7 +953,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 287.8439
     y: 227.3578
-    width: 108.55669
+    width: 71.39526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -979,7 +980,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 155.12128
     y: 229.06949
-    width: 108.55669
+    width: 71.39526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1006,7 +1007,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 24.939758
     y: 232.0031
-    width: 106.90721
+    width: 71.39526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1033,7 +1034,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -107.049
     y: 229.7833
-    width: 106.082466
+    width: 69.534805
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1235,6 +1236,21 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &76465078
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76465031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: "\u5B8C\u6210\u5EA6"
+  value: 0
 --- !u!1 &158860585
 GameObject:
   m_ObjectHideFlags: 0
@@ -1690,7 +1706,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0.0000035762787}
@@ -1817,7 +1833,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.0000076293945, y: -2.791333}
@@ -2185,7 +2201,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0.2996254}
@@ -2313,7 +2329,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.021398127}
@@ -2461,7 +2477,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.014134884, y: -0.0018002987}
