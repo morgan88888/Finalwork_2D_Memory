@@ -1202,7 +1202,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 973719304}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -14.003704, y: -0.15127468, z: -10}
+  m_LocalPosition: {x: -21.64146, y: -0.15105247, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1221,9 +1221,10 @@ GameObject:
   - component: {fileID: 1028857779}
   - component: {fileID: 1028857778}
   - component: {fileID: 1028857777}
-  - component: {fileID: 1028857776}
-  - component: {fileID: 1028857782}
   - component: {fileID: 1028857783}
+  - component: {fileID: 1028857784}
+  - component: {fileID: 1028857782}
+  - component: {fileID: 1028857776}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1243,7 +1244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 2
+  itemId: 7
   indentLevel: 0
   duration: 1
   targetAlpha: 0
@@ -1253,7 +1254,7 @@ MonoBehaviour:
   fadeTweenType: 4
 --- !u!114 &1028857777
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1309,7 +1310,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 70
-    width: 111
+    width: 112.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1320,6 +1321,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1028857776}
   - {fileID: 1028857777}
+  - {fileID: 1028857784}
   - {fileID: 1028857782}
   - {fileID: 1028857783}
   suppressAllAutoSelections: 0
@@ -1350,7 +1352,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1028857779}
   selectedCommands:
-  - {fileID: 1028857783}
+  - {fileID: 1028857782}
   variables: []
   description: 
   stepPause: 0
@@ -1385,10 +1387,49 @@ MonoBehaviour:
   m_GameObject: {fileID: 1028857775}
   m_Enabled: 1
   m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 6
+  indentLevel: 0
+  duration: 1
+  targetAlpha: 1
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &1028857783
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028857775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 4
+  indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: afterLG02
+  loadingImage: {fileID: 0}
+  sceneNameOLD: 
+--- !u!114 &1028857784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1028857775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 3
+  itemId: 5
   indentLevel: 0
   storyText: "\u5E78\u597D\u9084\u662F\u8DDF\u56DE\u61B6\u88E1\u7684\u4E00\u6A23\uFF0C\u770B\u5230\u65B0\u7684\u904A\u6A02\u8A2D\u65BD\u7684\u6211\uFF0C\u7A81\u7136\u50CF\u500B\u5C0F\u5B78\u751F\uFF0C\u8DD1\u53BB\u73A9\u904A\u6A02\u8A2D\u65BD\u3002\r"
   description: 
@@ -1403,25 +1444,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1028857783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1028857775}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 4
-  indentLevel: 0
-  _sceneName:
-    stringRef: {fileID: 0}
-    stringVal: 
-  loadingImage: {fileID: 0}
-  sceneNameOLD: 
 --- !u!1 &1055810220
 GameObject:
   m_ObjectHideFlags: 0

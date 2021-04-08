@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Chapter1/day2/afterLG02.unity
+    guid: b9fdaa2e3b2a13a4690da2f88bf4820b
+  - enabled: 1
     path: Assets/Scenes/Chapter2/CH02OP.unity
     guid: 68820da1ef6b6cd44a0598899be8917b
   - enabled: 1
@@ -174,6 +177,6 @@ EditorBuildSettings:
     path: Assets/Scenes/LittleGame/littleG03.unity
     guid: c9910c6cfa5d7614f95df452a3d4e4cd
   - enabled: 1
-    path: Assets/Scenes/Chapter1/afterLG01.unity
+    path: Assets/Scenes/Chapter1/day1/afterLG01.unity
     guid: d16d0ff6f15892f47aa10b6c3cb00cf6
   m_configObjects: {}

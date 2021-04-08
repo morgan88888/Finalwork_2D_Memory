@@ -866,7 +866,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 212206307}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.006027, y: 0.008051872, z: -10}
+  m_LocalPosition: {x: 8.525597, y: -0.0035581589, z: -10}
   m_LocalScale: {x: 0.7, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1147,7 +1147,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.4390078
     y: -532.9515
-    width: 110.9756
+    width: 108.536575
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1342,7 +1342,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -163.90245
     y: -528.07324
-    width: 110.9756
+    width: 108.536575
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1792,7 +1792,7 @@ GameObject:
   m_IsActive: 1
 --- !u!114 &720798452
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1807,7 +1807,7 @@ MonoBehaviour:
   waitForFrames: 1
 --- !u!114 &720798453
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3785,7 +3785,7 @@ GameObject:
   m_IsActive: 1
 --- !u!114 &1696420070
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3804,7 +3804,7 @@ MonoBehaviour:
   sceneNameOLD: 
 --- !u!114 &1696420071
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -4529,7 +4529,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 82.85361
     y: -601.9756
-    width: 99.99999
+    width: 97.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4708,7 +4708,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -55.646393
     y: -584.4756
-    width: 99.99999
+    width: 97.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4855,7 +4855,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -28.951263
     y: -650.07446
-    width: 69.31818
+    width: 69.090904
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5410,7 +5410,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -153.96124
     y: -642.51196
-    width: 77.27272
+    width: 79.090904
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5453,8 +5453,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1696420103}
-  selectedCommands:
-  - {fileID: 1696420070}
+  selectedCommands: []
   variables:
   - {fileID: 1696420095}
   description: 

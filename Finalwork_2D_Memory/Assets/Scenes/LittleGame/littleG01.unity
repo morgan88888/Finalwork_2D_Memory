@@ -2100,11 +2100,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 126.468254, y: 171.07004}
+  scrollPos: {x: 33.644394, y: 112.52276}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 479
-  zoom: 0.42999998
+  blockViewHeight: 412.5
+  zoom: 0.7899997
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -2112,8 +2112,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1778161006}
-  selectedCommands: []
+  - {fileID: 1778160902}
+  selectedCommands:
+  - {fileID: 1778160909}
   variables:
   - {fileID: 1778160912}
   - {fileID: 1778160916}
@@ -2169,7 +2170,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 284.23645
     y: -40.1269
-    width: 101.162796
+    width: 137.08864
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2214,7 +2215,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.428571
     y: -29
-    width: 60
+    width: 75.31647
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2496,7 +2497,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 282.69055
     y: 48.21051
-    width: 101.162796
+    width: 138.10129
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3043,7 +3044,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 128.16653
     y: 43.893127
-    width: 95.5814
+    width: 132.02534
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3226,7 +3227,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 130.66005
     y: -42.069
-    width: 86.279076
+    width: 124.93674
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4300,7 +4301,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -26.440819
     y: 47.01123
-    width: 82.55814
+    width: 119.87344
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6861,7 +6862,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.233948
     y: 138.68419
-    width: 60
+    width: 89.49368
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7252,7 +7253,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &1778161017
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}

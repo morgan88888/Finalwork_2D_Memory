@@ -2390,7 +2390,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1142417225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.006031, y: 0.008051872, z: -10}
+  m_LocalPosition: {x: 8.525595, y: -0.0035581589, z: -10}
   m_LocalScale: {x: 0.7, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2477,6 +2477,7 @@ GameObject:
   - component: {fileID: 1306498256}
   - component: {fileID: 1306498255}
   - component: {fileID: 1306498254}
+  - component: {fileID: 1306498257}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2486,7 +2487,7 @@ GameObject:
   m_IsActive: 1
 --- !u!114 &1306498250
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2515,7 +2516,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 70
-    width: 111
+    width: 112.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2525,8 +2526,9 @@ MonoBehaviour:
   eventHandler: {fileID: 1306498250}
   commandList:
   - {fileID: 1306498254}
-  - {fileID: 1306498256}
+  - {fileID: 1306498257}
   - {fileID: 1306498255}
+  - {fileID: 1306498256}
   suppressAllAutoSelections: 0
 --- !u!114 &1306498252
 MonoBehaviour:
@@ -2554,8 +2556,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1306498251}
-  selectedCommands:
-  - {fileID: 1306498255}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -2583,7 +2584,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1306498254
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2603,7 +2604,7 @@ MonoBehaviour:
   fadeTweenType: 4
 --- !u!114 &1306498255
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2630,7 +2631,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1306498256
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2641,6 +2642,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemId: 1
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1505650816}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1306498257
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306498249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 4
   indentLevel: 0
   display: 1
   stage: {fileID: 0}
@@ -2685,7 +2716,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1324059078}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bb0666f1a7f1297429aed2e42662009f, type: 3}
+  m_Script: {fileID: 11500000, guid: ccd2d295f06abc6468279d79e44022db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Button: {fileID: 31513529}

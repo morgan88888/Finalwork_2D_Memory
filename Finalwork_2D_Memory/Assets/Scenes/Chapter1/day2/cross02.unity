@@ -901,7 +901,7 @@ MonoBehaviour:
   fadeTweenType: 4
 --- !u!114 &751427522
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -954,7 +954,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &751427525
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1099,7 +1099,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 751427530}
   selectedCommands:
-  - {fileID: 751427528}
+  - {fileID: 751427526}
   variables: []
   description: 
   stepPause: 0
