@@ -529,7 +529,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 148674096}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.56948, y: -8.157771, z: -10}
+  m_LocalPosition: {x: 22.599611, y: -8.157771, z: -10}
   m_LocalScale: {x: 4.37384, y: 4.37384, z: 4.37384}
   m_Children:
   - {fileID: 1966922896}
@@ -2026,7 +2026,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 704569254}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.561577, y: -13.960794, z: -10}
+  m_LocalPosition: {x: 22.591715, y: -13.954968, z: -10}
   m_LocalScale: {x: 0.117659084, y: 0.117659084, z: 0.073536925}
   m_Children:
   - {fileID: 786957192}
@@ -2319,8 +2319,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 53.19, y: -19.86, z: 0}
   m_LocalScale: {x: 1.4309138, y: 1.4309138, z: 1.1946932}
-  m_Children:
-  - {fileID: 1772473987}
+  m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3488,7 +3487,7 @@ MonoBehaviour:
   parentBlock: {fileID: 1129428593}
   suppressBlockAutoSelect: 0
   keyPressType: 1
-  keyCode: 122
+  keyCode: 101
 --- !u!114 &1129428589
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3505,7 +3504,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -163.90245
     y: -528.07324
-    width: 110.9756
+    width: 108.536575
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3541,7 +3540,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1129428589}
+  - {fileID: 1129428593}
   selectedCommands: []
   variables:
   - {fileID: 1129428595}
@@ -3737,7 +3736,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.4390078
     y: -532.9515
-    width: 110.9756
+    width: 108.536575
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3930,7 +3929,7 @@ MonoBehaviour:
   parentBlock: {fileID: 1129428589}
   suppressBlockAutoSelect: 0
   keyPressType: 0
-  keyCode: 122
+  keyCode: 101
 --- !u!1 &1144938843
 GameObject:
   m_ObjectHideFlags: 0
@@ -4337,7 +4336,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: "\u7528\u65B9\u5411\u9375\u6216W A S  D\u9375\u63A7\u5236\u73A9\u5BB6\u79FB\u52D5\uFF0CZ\u9375\u8207\u89D2\u8272\u5C0D\u8A71\uFF0C\u7A7A\u767D\u9375\u4E0A\u4E0B\u6A13\u3001\u9032\u5230\u623F\u9593\u3001\u9032\u884C\u5C0D\u8A71"
+  storyText: "\u89D2\u8272\u79FB\u52D5: \u7528WASD\u6216\u65B9\u5411\u9375\u79FB\u52D5\n\u8207NPC\u5C0D\u8A71:
+    E\n\u4E0A\u4E0B\u6A13\u3001\u9032\u51FA\u623F\u9593: \u7A7A\u767D\u9375"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4381,7 +4381,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 68
     y: 70
-    width: 111
+    width: 112.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4421,7 +4421,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1230614558}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 1230614556}
   variables: []
   description: 
   stepPause: 0
@@ -5708,7 +5709,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -28.951263
     y: -648.9756
-    width: 77.83505
+    width: 76.391754
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6352,7 +6353,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -155.0976
     y: -642.51196
-    width: 78.86598
+    width: 76.391754
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6394,7 +6395,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1755866819}
+  - {fileID: 1755866810}
   selectedCommands: []
   variables:
   - {fileID: 1755866828}
@@ -6659,7 +6660,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 82.85361
     y: -601.9756
-    width: 99.484535
+    width: 99.48453
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6859,7 +6860,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -55.646393
     y: -584.4756
-    width: 99.484535
+    width: 99.48453
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7354,10 +7355,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1772473985}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.25, y: 9.35, z: 0}
-  m_LocalScale: {x: 0.5284379, y: 0.5284379, z: 0.5284379}
+  m_LocalPosition: {x: -0.117647104, y: 8.470588, z: 0}
+  m_LocalScale: {x: 0.5232865, y: 0.5232865, z: 0.43690044}
   m_Children: []
-  m_Father: {fileID: 762544424}
+  m_Father: {fileID: 2139420713}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1813137547
@@ -7672,7 +7673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 1755866820}
+  selectedFlowchart: {fileID: 1230614559}
 --- !u!4 &1862346527
 Transform:
   m_ObjectHideFlags: 1
@@ -8218,6 +8219,8 @@ GameObject:
   - component: {fileID: 2139420717}
   - component: {fileID: 2139420716}
   - component: {fileID: 2139420718}
+  - component: {fileID: 2139420724}
+  - component: {fileID: 2139420723}
   m_Layer: 0
   m_Name: mom
   m_TagString: Untagged
@@ -8285,7 +8288,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 14.27, y: -21.54, z: 0}
   m_LocalScale: {x: 1.445, y: 1.445, z: 1.445}
-  m_Children: []
+  m_Children:
+  - {fileID: 1772473987}
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8302,7 +8306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 0, y: 0}
+  scrollPos: {x: -6, y: 172.5}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -8313,8 +8317,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
-  selectedBlocks:
-  - {fileID: 2139420717}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 2139420715}
@@ -8509,8 +8512,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 179
-    y: 57
+    x: 184
+    y: 65
     width: 98
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -8521,6 +8524,7 @@ MonoBehaviour:
   eventHandler: {fileID: 2139420718}
   commandList:
   - {fileID: 2139420716}
+  - {fileID: 2139420723}
   suppressAllAutoSelections: 0
 --- !u!114 &2139420718
 MonoBehaviour:
@@ -8736,6 +8740,7 @@ MonoBehaviour:
   eventHandler: {fileID: 2139420720}
   commandList:
   - {fileID: 2139420719}
+  - {fileID: 2139420724}
   suppressAllAutoSelections: 0
 --- !u!70 &2139420722
 CapsuleCollider2D:
@@ -8753,3 +8758,45 @@ CapsuleCollider2D:
   m_Offset: {x: 0.15, y: 0}
   m_Size: {x: 8.35, y: 14.609999}
   m_Direction: 0
+--- !u!114 &2139420723
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2139420711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 8
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 1772473985}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2139420724
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2139420711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 7
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 1772473985}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
