@@ -1,13 +1,5 @@
 sceneSetups:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-- path: Assets/Scenes/Chapter1/day2/crosstoCH2.unity
-=======
 - path: Assets/Scenes/startandUI/start.unity
->>>>>>> 89db72df8c3821dfdc6b5c4df3bdb6ac14c6aa3d
-=======
-- path: Assets/Scenes/Chapter2/atSISroom.unity
->>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
