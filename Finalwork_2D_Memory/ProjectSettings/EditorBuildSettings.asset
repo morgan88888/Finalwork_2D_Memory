@@ -9,8 +9,301 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+<<<<<<< Updated upstream
+    path: Assets/Scenes/Chapter3/CH03GP_letter.unity
+    guid: d6bb354e8e2bdf64b932e3f758d29e6e
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03noone2F02.unity
+    guid: 0e3fa3adfd0cbeb4f8cd6378f1ae5d92
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03SISroom04.unity
+    guid: 8c32fb265ce04874f9bb6ef25822fd4d
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GProom03.unity
+    guid: e74c232d424c230498ab064f02f5dcbd
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03_3F03.unity
+    guid: c9109df48c169934e98f842efe2b949f
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03final02.unity
+    guid: 843096aa30872f34daba934864194d38
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03final.unity
+    guid: 9d21cff5ea7d6cc49ab68bd51dd07b11
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross12.unity
+    guid: d8698b3dfc6fe8241a01fadefde96a56
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03SISroom03.unity
+    guid: 572d4da524a133844b6f6089be68dbed
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross11.unity
+    guid: 7678754f7bcaad848b4c4eb13650c556
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross10.unity
+    guid: f2adc0165ce6bf64085562737558d72d
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GPgone02.unity
+    guid: 99ee6fcd3d6f4e647928bd1b08dee0ca
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GPgone.unity
+    guid: 2125464946e330841ba32179458986e2
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03readygoout.unity
+    guid: 2717a626089ea84418a6c89ca3a49977
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross09.unity
+    guid: 7bb4910f95b64d74b9c69457682d3a08
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GProomtalk.unity
+    guid: b9cac8805a8a1e14782480c1dd54a487
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GProom02.unity
+    guid: a0456e4b9e1023d46bff229eb886c7e0
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03gatetalkend02.unity
+    guid: 7b2bdc9493bd3874a95578355467d744
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03SISroom02.unity
+    guid: addce2f939b4d974c8ace32754cc4038
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03_3F02.unity
+    guid: b13d1ac2fb9f1264ea12ad79f1140976
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03noone2F.unity
+    guid: d5f528fe85931ba438d2a7c3ed5fc5dd
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03gatetalkend.unity
+    guid: 83999a6e3e5030d4aafbbecc845e4841
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GPremember.unity
+    guid: c1acab7672c7b5048b7a8b1fc4ccf885
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross08.unity
+    guid: babb4d1078042d14a8a2d2773077ac51
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03SIStalk.unity
+    guid: 09bdadc22d29494448da021b2b4b6f91
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GPtalk.unity
+    guid: 0eea5b0601487e94ebe026fe6b737672
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross07.unity
+    guid: 0305c15ee47b1c848b2aea6928253b4e
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03dinner.unity
+    guid: 359e20cf1fe9a094e8d2f6e20de6b359
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross06.unity
+    guid: e8f5f25d1e114d440815c5b4c075e636
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03afteryear.unity
+    guid: 12b1dad26733ddc419ed493d464bf5d8
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross05.unity
+    guid: e1390b76f98129547b877c093b83ed52
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03livingroom.unity
+    guid: 0a649fc676b07794c94be46c79e459bc
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross04.unity
+    guid: 53c061b80e17ae84c8c70f3f0fbda13a
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03_3F.unity
+    guid: 8440596465ecf144490aff0e47676c71
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03talkend2F.unity
+    guid: a1300d91bac12c24785050908ca0aeed
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03noone1F.unity
+    guid: 65d2bf3c6932d8349a2c22c22724a7b7
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03GProom.unity
+    guid: 8d3ac6854e4ba2a42abd61aac94077f6
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03SISroom.unity
+    guid: 3aeb614606367c042a3f5e6e188677e0
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross03.unity
+    guid: a163237685bd30941b8e8efd9261581a
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03parktalk.unity
+    guid: 1078c2159f418214b939e385a71811d6
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross02.unity
+    guid: e6240352885042749a2015729da1be30
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03findGP.unity
+    guid: 8b2c5f165a8a0f34f9a56c278455d986
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03afterLG06.unity
+    guid: 4444a5ee12fe47b4e99a6e6e31eece6b
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03beforeLG06.unity
+    guid: 62a19a66cec6cf5468f9bb246a6a328a
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03familytalk.unity
+    guid: 38209f640595e954ebf92f1b1054b4d0
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03cross01.unity
+    guid: a888da59343285742945548749064819
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03OP.unity
+    guid: 13be6a2f1405f2949b72057927ab1446
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02noone2F04.unity
+    guid: eae3e52f8bcfda94e981b9c0f82d8fed
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02SISnoone03.unity
+    guid: e7e8df3f1d85ec34a95df57db3bffb6c
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02GProom04.unity
+    guid: 0ea9fb8089f80de4e889b771324d7cd3
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02_3F04.unity
+    guid: 13010474249a4f04b87ba289a7e19ac9
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02beforepark.unity
+    guid: 55e0bff593257234b96e7e379392ac1c
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02crosstoCH03.unity
+    guid: 159f36fd9033aee419ad1d4bf2a57077
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02afterLG05.unity
+    guid: 7b3c5e24dc4aee14f8d71afa58d3e953
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02beforeLG05.unity
+    guid: fe779bb2500388a41b1d07f707fe1bbe
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross09.unity
+    guid: 773fa5b155f54c74bb49fe4c22b11001
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02SIStalk02.unity
+    guid: d12dbf511b1f1e845afe7a4b8271eaf9
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02dinner02.unity
+    guid: f18012fa92881364db0cbf8b839671aa
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross08.unity
+    guid: f7b01493b409f5d40bc54a4c2687ea43
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02RW&DAD&MOM.unity
+    guid: f8c86146485b26d488de19402725e13c
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross07.unity
+    guid: c669ed8eaeb40c64eba1169cf248c7e3
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02afterLG04.unity
+    guid: 92fca48f45a36a24a9daf6b952779fe7
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02beforeLG04.unity
+    guid: 656b0337de0e0ff45815cf81f1a4c52d
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02MOM&RW.unity
+    guid: bb75fafc35141be418692f2c1fa1aa88
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross06.unity
+    guid: 3154bf384001cae49961b75a16140400
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02GPmaRW.unity
+    guid: 4a2bee33cfdced44689acbd54c83678c
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross05.unity
+    guid: 0ca4807a6ff4b8f4f937ee6ee393acdd
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02familyend02.unity
+    guid: 01aacf303a4a2c540b18d1d6ac669d71
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02GProom03.unity
+    guid: 211b5ade2d673ea4c89bd1150532678e
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02SISnoone02.unity
+    guid: 99c9138757f046144b8f6c12d203288a
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02_3F03.unity
+    guid: 314b7349c71035f49a794ce5f0359484
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02noone2F03.unity
+    guid: 475f6654813b2cc48a5d3dbb6a1beb7d
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02familyend.unity
+    guid: 7328f2a54332ef74a9a09e4b8a08be52
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02familytalk.unity
+    guid: cc6ef76c0a7de0b40828920861b5672d
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02RW&GP.unity
+    guid: 8df42a5eaeb9e764896b75c8f8e44fdc
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02GP&MOM.unity
+    guid: 47797b3b215dc984ba3d48fff6f3e978
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross04.unity
+    guid: a09e3aa6167bae0439dbb03b82109af0
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02livingroom.unity
+    guid: 7127006f50284fe43b21e3983861cba6
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02SISroom.unity
+    guid: 2f8b07e2c244c0141ae3d08e11404b78
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02GProom02.unity
+    guid: 5f70bb8cefa41e947b6c18be93ef4a74
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02_3F02.unity
+    guid: c4694b7fff482e74994e726bf9fb05b2
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02noone2F02.unity
+    guid: 75b4eada187fa6747b3f14e82204c77a
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02wakeup.unity
+    guid: 06e6123333cf1c74985535b2e9ffb215
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross03.unity
+    guid: 4c847c6ceb28f7f4e9d3675786e3d53e
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02talkGP.unity
+    guid: 16900c8421b9d5247b37399043c0e5ac
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross02.unity
+    guid: 66e713e4abbe159439fd077489a8611a
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02SISnoone.unity
+    guid: 06ccc97a4ca810749b0a8f7b74519600
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02dinner.unity
+    guid: 15685eab662d81a479f1054e33fa9244
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02GProom.unity
+    guid: 660831a9da6d88146b29fb6f85342da9
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02_3F.unity
+    guid: 6ce09e0def487a747b58a4629d81dc63
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02noone2F.unity
+    guid: 6b70a6892bf198344837456bebaa560f
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02SIStalk.unity
+    guid: 6f57e66a1ef6d8d41b5d04a76a4fad72
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02cross01.unity
+    guid: e13dd48204a46344a9a31479beb4c48f
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH02atdoor.unity
+    guid: 3402f9f17dc724f418a758480598ea95
+  - enabled: 1
     path: Assets/Scenes/Chapter1/day2/afterLG02.unity
     guid: b9fdaa2e3b2a13a4690da2f88bf4820b
+=======
+    path: Assets/Scenes/Chapter2/atSISroom.unity
+    guid: a3d4b82a26e080e43accdff55c681140
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/CH2cross01.unity
+    guid: b1bdd810976643d47bd3dd88d8441fcb
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/talkatdoor.unity
+    guid: d57851839764e0349a8f956fc98e3d63
+>>>>>>> Stashed changes
   - enabled: 1
     path: Assets/Scenes/Chapter2/CH02OP.unity
     guid: 68820da1ef6b6cd44a0598899be8917b
@@ -179,4 +472,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chapter1/day1/afterLG01.unity
     guid: d16d0ff6f15892f47aa10b6c3cb00cf6
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/CH03backhome.unity
+    guid: f05b33da8a5913040af1d393d57a3563
   m_configObjects: {}

@@ -1865,7 +1865,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 69.556366
     y: 72.77867
-    width: 103.73135
+    width: 102.238815
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2146,8 +2146,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.1, y: 0}
-  m_SizeDelta: {x: 725.2, y: 322}
+  m_AnchoredPosition: {x: -0.17, y: 0}
+  m_SizeDelta: {x: 802.7, y: 322}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1792745669
 MonoBehaviour:

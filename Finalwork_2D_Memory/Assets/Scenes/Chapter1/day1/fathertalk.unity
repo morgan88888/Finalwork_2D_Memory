@@ -2045,7 +2045,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1116453819}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 33.728153, y: -0.037350655, z: -10}
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+  m_LocalPosition: {x: 33.728172, y: -0.040465355, z: -10}
+=======
+  m_LocalPosition: {x: 33.728107, y: -0.02861309, z: -10}
+>>>>>>> 89db72df8c3821dfdc6b5c4df3bdb6ac14c6aa3d
+=======
+  m_LocalPosition: {x: 33.72818, y: -0.040472984, z: -10}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2447,7 +2455,7 @@ GameObject:
   - component: {fileID: 1296625678}
   - component: {fileID: 1296625677}
   m_Layer: 0
-  m_Name: aaaU
+  m_Name: aaaSIS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3069,7 +3077,7 @@ GameObject:
   - component: {fileID: 1670758053}
   - component: {fileID: 1670758052}
   m_Layer: 0
-  m_Name: aaaU
+  m_Name: aaaUGP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3307,7 +3315,6 @@ GameObject:
   - component: {fileID: 1748170408}
   - component: {fileID: 1748170407}
   - component: {fileID: 1748170406}
-  - component: {fileID: 1748170404}
   - component: {fileID: 1748170403}
   - component: {fileID: 1748170402}
   - component: {fileID: 1748170401}
@@ -3326,7 +3333,7 @@ GameObject:
   m_IsActive: 1
 --- !u!114 &1748170395
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3353,7 +3360,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1748170396
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3383,7 +3390,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1748170397
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3413,7 +3420,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1748170398
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3440,7 +3447,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1748170399
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3467,7 +3474,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1748170400
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3494,7 +3501,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1748170401
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3521,7 +3528,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1748170402
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3551,7 +3558,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1748170403
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3579,26 +3586,6 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
---- !u!114 &1748170404
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748170394}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 2
-  indentLevel: 0
-  duration: 1
-  targetAlpha: 0
-  waitUntilFinished: 1
-  fadeColor: {r: 0, g: 0, b: 0, a: 1}
-  fadeTexture: {fileID: 0}
-  fadeTweenType: 4
 --- !u!114 &1748170406
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3630,7 +3617,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 70
-    width: 111
+    width: 112.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3639,7 +3626,6 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 1748170406}
   commandList:
-  - {fileID: 1748170404}
   - {fileID: 1748170403}
   - {fileID: 1748170397}
   - {fileID: 1748170401}
@@ -3677,7 +3663,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1748170407}
   selectedCommands:
-  - {fileID: 1748170404}
+  - {fileID: 1748170403}
   variables: []
   description: 
   stepPause: 0
@@ -4095,7 +4081,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1961052571}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a6c3af0d6b239244ae11220209069eb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5b2566d4aeb906344be50ffc778d02d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Button: {fileID: 1296625676}
