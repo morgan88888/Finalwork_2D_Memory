@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/LittleGame/littleG01.unity
+- path: Assets/Scenes/LittleGame/littleG06.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
