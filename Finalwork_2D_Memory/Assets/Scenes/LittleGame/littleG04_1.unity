@@ -171,6 +171,7 @@ GameObject:
   - component: {fileID: 76465069}
   - component: {fileID: 76465068}
   - component: {fileID: 76465070}
+  - component: {fileID: 76465071}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1652,6 +1653,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 76465051}
   commandList:
+  - {fileID: 76465071}
   - {fileID: 76465066}
   - {fileID: 76465065}
   - {fileID: 76465069}
@@ -1738,7 +1740,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 76465052}
   selectedCommands:
-  - {fileID: 76465066}
+  - {fileID: 76465071}
   variables:
   - {fileID: 76465056}
   description: 
@@ -2801,6 +2803,24 @@ MonoBehaviour:
     stringVal: 
   loadingImage: {fileID: 0}
   sceneNameOLD: 
+--- !u!114 &76465071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76465031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 54
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 449e446471804994f9c1e01376643462, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
 --- !u!1 &158860585
 GameObject:
   m_ObjectHideFlags: 0

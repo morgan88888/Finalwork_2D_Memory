@@ -15,11 +15,11 @@ D:/UnityProject/Finalwork_2D_Memory/Finalwork_2D_Memory
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-6014
+3748
 Successfully changed project path to: D:/UnityProject/Finalwork_2D_Memory/Finalwork_2D_Memory
 D:/UnityProject/Finalwork_2D_Memory/Finalwork_2D_Memory
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 56.02 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 49.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path D:/unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,144 +35,19 @@ Initialize mono
 Mono path[0] = 'D:/unity/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'D:/unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001794 seconds.
+Registered in 0.047303 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 50.13 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 52.16 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.785 seconds
+- Completed reload, in 15.740 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001239 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 54.81 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.310 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2157 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.8 MB.
-System memory in use after: 90.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2606.
-Total: 2.922700 ms (FindLiveObjects: 0.288400 ms CreateObjectMapping: 0.121800 ms MarkObjects: 2.210600 ms  DeleteObjects: 0.294900 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df87afca238661d631515be11d2d10e') in 0.045551 seconds
-  Import took 0.050095 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 76.982301 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_1.unity
-  artifactKey: Guid(837e967cec656b74da60c9e3f8c46404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_1.unity using Guid(837e967cec656b74da60c9e3f8c46404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3fe9aaf4c413bd0cf5250bb3d645c9') in 0.034959 seconds
-  Import took 0.039653 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.056707 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0be83db72fe054e91c5970d6bd4a8f') in 0.003563 seconds
-  Import took 0.008580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 154.237867 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e794b8b690634567bc8a11a8f4e958c7') in 0.004642 seconds
-  Import took 0.010647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001902 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e794b8b690634567bc8a11a8f4e958c7') in 0.004430 seconds
-  Import took 0.009973 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.560737 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb830f7bfe8d73dbd5ca2513c8099afe') in 0.003589 seconds
-  Import took 0.009118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11853.273571 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_3.unity
-  artifactKey: Guid(d5b104160673bc54fb8ca965a08f92d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_3.unity using Guid(d5b104160673bc54fb8ca965a08f92d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0edf4e60113576066a9a642c443a2f1') in 0.010312 seconds
-  Import took 0.157436 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001804 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.992 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2139 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.0 MB.
-System memory in use after: 90.1 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2609.
-Total: 3.056500 ms (FindLiveObjects: 0.209600 ms CreateObjectMapping: 0.093600 ms MarkObjects: 2.705800 ms  DeleteObjects: 0.046200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 628.797736 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b024081b61f51a5183c4d20864d300f9') in 0.027307 seconds
-  Import took 0.031556 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 200.639677 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_1.unity
-  artifactKey: Guid(837e967cec656b74da60c9e3f8c46404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_1.unity using Guid(837e967cec656b74da60c9e3f8c46404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e114796422a8d82ab52456e6c58f4200') in 0.004519 seconds
-  Import took 0.008990 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.169011 seconds.
-  path: Assets/Scenes/LittleGame/littleG04_2.unity
-  artifactKey: Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LittleGame/littleG04_2.unity using Guid(6cf28d5a98cd8ad4e89669905098f739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258d150e60b7e2d2ce2efdcd671babbd') in 0.003254 seconds
-  Import took 0.009117 seconds .
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+Registered in 0.066990 seconds.
