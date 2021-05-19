@@ -1738,9 +1738,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 76465052}
-  selectedCommands:
-  - {fileID: 76465071}
+  - {fileID: 76465053}
+  selectedCommands: []
   variables:
   - {fileID: 76465056}
   description: 
@@ -2800,7 +2799,7 @@ MonoBehaviour:
   indentLevel: 1
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: 
+    stringVal: littleG04_2
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &76465071
