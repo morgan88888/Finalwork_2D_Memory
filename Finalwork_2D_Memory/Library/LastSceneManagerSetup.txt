@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Chapter1/day1/afterdinner.unity
+- path: Assets/Scenes/Chapter3/CH03GP_letter.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

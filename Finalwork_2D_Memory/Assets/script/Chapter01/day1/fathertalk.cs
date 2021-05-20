@@ -25,6 +25,10 @@ public class fathertalk : MonoBehaviour
         {
             SceneManager.LoadScene("fathertalk");
         }
+        else if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Button.SetActive(false);
+        }
     }
 }
 
