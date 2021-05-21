@@ -669,6 +669,7 @@ GameObject:
   - component: {fileID: 76465204}
   - component: {fileID: 76465203}
   - component: {fileID: 76465210}
+  - component: {fileID: 76465211}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1347,6 +1348,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 76465052}
   commandList:
+  - {fileID: 76465211}
   - {fileID: 76465210}
   - {fileID: 76465209}
   - {fileID: 76465208}
@@ -1383,7 +1385,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 76465053}
   selectedCommands:
-  - {fileID: 76465210}
+  - {fileID: 76465211}
   variables: []
   description: 
   stepPause: 0
@@ -5657,6 +5659,26 @@ MonoBehaviour:
   atTime: 0
   loop: 1
   fadeDuration: 1
+--- !u!114 &76465211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76465031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 226
+  indentLevel: 0
+  duration: 1
+  targetAlpha: 0
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
 --- !u!1 &158860585
 GameObject:
   m_ObjectHideFlags: 0

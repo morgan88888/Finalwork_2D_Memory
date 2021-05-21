@@ -3,11 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
 public class fathertalk : MonoBehaviour
 {
     public GameObject Button;
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Button.SetActive(true);

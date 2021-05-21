@@ -269,7 +269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: "\u7167\u9806\u5E8F\u6309 \u4E0A\u3001\u5DE6\u3001\u4E0B\u3001 \u5C31\u53EF\u4EE5\u628A\u6C34\u95DC\u8D77\u4F86\u5594\u3002"
+  storyText: "\u7167\u9806\u5E8F\u6309 \u4E0A\u3001\u5DE6\u3001\u4E0B\u3001 \u53F3\u5C31\u53EF\u4EE5\u628A\u6C34\u95DC\u8D77\u4F86\u5594\u3002"
   description: 
   character: {fileID: 689820103}
   portrait: {fileID: 0}
@@ -2208,9 +2208,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 76465043}
+  - {fileID: 76465053}
   selectedCommands:
-  - {fileID: 76465119}
+  - {fileID: 76465033}
   variables:
   - {fileID: 76465037}
   description: 
